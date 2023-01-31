@@ -26,6 +26,8 @@
 ![image](https://user-images.githubusercontent.com/113675674/210207991-d9ed3109-e8b4-48c5-9fe4-dd4f936b1d0f.png)  
 
 # Задача 8  
+![image](https://user-images.githubusercontent.com/113675674/215819676-b25d34dd-43c7-472b-ae8e-6d536482d789.png)  
+или
 ![image](https://user-images.githubusercontent.com/113675674/210314789-6ceb58ff-294d-425e-8ec3-0dfdf3a79265.png)
 
 # Задача 9  
