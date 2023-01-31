@@ -27,3 +27,10 @@
 
 # Задача 8  
 ![image](https://user-images.githubusercontent.com/113675674/210314789-6ceb58ff-294d-425e-8ec3-0dfdf3a79265.png)
+
+# Задача 9  
+### Определение пола  
+![image](https://user-images.githubusercontent.com/113675674/215808166-8350b572-c317-44ea-bf82-00e4b9ccf98b.png)  
+
+
+
